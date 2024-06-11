@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+nginx:1.22.1 registry.cn-beijing.aliyuncs.com/gao7_img_sync/nginx:1.22.1
